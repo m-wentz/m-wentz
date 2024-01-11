@@ -35,12 +35,6 @@
   <li><b>Tools:</b> Kali Linux, Wireshark, Tcpdump, Burp Suite, Nmap, Metasploit, Autopsy</li>
 </ul>
 
-<h2>📝 Latest Blog Posts</h2>
-<ul>
-  <li><a href="your-blog-post-link">Title of Your Blog Post</a></li>
-  <!-- Add more posts here -->
-</ul>
-
 <h2>Let's Connect!</h2>
 <p>
   <a href="https://www.linkedin.com/in/m-wentz"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/White/LinkedIN_white.svg" alt="LinkedIn"></a>
